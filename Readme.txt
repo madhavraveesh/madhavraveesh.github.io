@@ -1,6 +1,3 @@
-Thanks for downloading this theme!
+This is My portfolio.
 
-Theme Name: Folio
-Theme URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Author: Raveesh Yadav
